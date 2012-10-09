@@ -1,0 +1,11 @@
+C:\Users\dentellaluca\Elettronica\Miei progetti\MatrixDisplay\LetterToBinary\LetterToBinary\LetterToBinary\bin\Debug\LetterToBinary.exe
+C:\Users\dentellaluca\Elettronica\Miei progetti\MatrixDisplay\LetterToBinary\LetterToBinary\LetterToBinary\bin\Debug\LetterToBinary.pdb
+C:\Users\dentellaluca\Elettronica\Miei progetti\MatrixDisplay\LetterToBinary\LetterToBinary\LetterToBinary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dentellaluca\Elettronica\Miei progetti\MatrixDisplay\LetterToBinary\LetterToBinary\LetterToBinary\obj\x86\Debug\LetterToBinary.Form1.resources
+C:\Users\dentellaluca\Elettronica\Miei progetti\MatrixDisplay\LetterToBinary\LetterToBinary\LetterToBinary\obj\x86\Debug\LetterToBinary.Properties.Resources.resources
+C:\Users\dentellaluca\Elettronica\Miei progetti\MatrixDisplay\LetterToBinary\LetterToBinary\LetterToBinary\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\dentellaluca\Elettronica\Miei progetti\MatrixDisplay\LetterToBinary\LetterToBinary\LetterToBinary\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\dentellaluca\Elettronica\Miei progetti\MatrixDisplay\LetterToBinary\LetterToBinary\LetterToBinary\obj\x86\Debug\LetterToBinary.exe
+C:\Users\dentellaluca\Elettronica\Miei progetti\MatrixDisplay\LetterToBinary\LetterToBinary\LetterToBinary\obj\x86\Debug\LetterToBinary.pdb
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\obj\x86\Debug\LetterToBinary.exe
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\obj\x86\Debug\LetterToBinary.pdb

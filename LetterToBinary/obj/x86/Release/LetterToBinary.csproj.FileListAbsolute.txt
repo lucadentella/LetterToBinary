@@ -1,0 +1,9 @@
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\bin\Release\LetterToBinary.exe
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\bin\Release\LetterToBinary.pdb
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\obj\x86\Release\LetterToBinary.Form1.resources
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\obj\x86\Release\LetterToBinary.Properties.Resources.resources
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\obj\x86\Release\LetterToBinary.exe
+C:\Users\dentellaluca\Git\LetterToBinary\LetterToBinary\obj\x86\Release\LetterToBinary.pdb
