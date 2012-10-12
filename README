@@ -1,0 +1,7 @@
+LetterToBinary
+
+Simple program to code characters in a binary form, to be used with a microcontroller for example Arduino).
+
+Used in my tutorial about driving a led matrix display with Arduino:
+
+http://www.lucadentella.it/2012/10/12/matrice-di-led-con-ht1632c-4/
